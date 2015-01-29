@@ -1,0 +1,2 @@
+username: dat, password: ngd, full name: Dat Nguyen
+username: admin, password: admin, full name: Administrator
